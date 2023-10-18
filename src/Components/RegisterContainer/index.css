@@ -1,0 +1,10 @@
+.register-container {
+  display: flex;
+}
+
+.vertical-line {
+  border-right: 5px solid darkorange;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+}

@@ -1,0 +1,27 @@
+.register-bg-container {
+  width: 50%;
+  padding-left: 60px;
+}
+
+.submit-btn {
+  background-color: limegreen;
+  border: none;
+  border-radius: 6px;
+  width: 120px;
+  height: 35px;
+  margin-top: 10px;
+}
+
+.clear-btn {
+  background-color: lightcoral;
+  border: none;
+  border-radius: 6px;
+  width: 120px;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+
+.register-bg-container table {
+   border-spacing: 10px;
+}

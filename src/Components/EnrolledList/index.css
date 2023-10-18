@@ -1,0 +1,36 @@
+.enroll-list h1 {
+  text-align: center;
+}
+
+.output-card {
+  border: 1px solid blue;
+  width: 400px;
+}
+.output-list {
+  padding: 10px;
+}
+
+.output-image {
+  padding: 20px;
+}
+
+.enroll-list table,
+.enroll-list th,
+.enroll-list td {
+  border: 2px dotted black;
+}
+
+.enroll-list th {
+  background-color: bisque;
+}
+
+.enroll-list tr:nth-child(odd) {
+  background-color: linen;
+}
+.enroll-list tr:nth-child(even) {
+  background-color: bisque;
+}
+
+.enroll-list table {
+    border-spacing: 10px;
+}

@@ -1,0 +1,19 @@
+.header-bg-container {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.header-heading {
+  font: bold 50px Bree Sherif;
+}
+
+.header-name {
+  font: bold 20px Bree Sherif;
+  background-color: darkorange;
+  padding: 5px 15px;
+}
